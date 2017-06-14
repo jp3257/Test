@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 venus is cool
+=======
+changes
+>>>>>>> 6e625196e9bd5a726ff2e92cfcec05c17a02dcec
